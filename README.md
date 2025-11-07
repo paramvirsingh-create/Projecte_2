@@ -1,0 +1,1 @@
+En esta repositori tinc guardat les meves activitas inicials de programació.
