@@ -3,7 +3,8 @@ for i in range(10):
     
     if num < 0:
         negatiu = True
-
+    if num >= 0:
+        negatiu = False
 if negatiu:
     print("Hi havia almenys un nombre negatiu.")
 else:
